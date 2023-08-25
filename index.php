@@ -252,20 +252,14 @@
               <div class="card-content">
                 <!-- ABOUT PARAGRAPH -->
                 <p>
-                  Hey, I’m an independent Software Engineer from Dhaka,
-                  Bangladesh. Look at some of my projects. Need assistance with
-                  an upcoming application or project? Learn about me a little
-                  bit more and think about employing me. I enjoy writing
-                  code to assist companies to achieve their objectives and
-                  create excellent products. I appreciate good design and I am
-                  seeing it’s importance more than ever in today’s apps,
-                  websites and products. I am an aspiring entrepreneur who
-                  subscribes to the lean startup ideology. Anyone who wishes to
-                  know more about me or my interests and wants to find more
-                  information about my work please feel free to contact me
-                  anytime through this contact information. Thanks for visiting
-                  my website and me welcome you to go through the other pages
-                  too.
+                  Welcome to my portfolio! I'm a dedicated and skilled Data Scientist hailing from Dhaka, Bangladesh. Delve into some of the remarkable projects I've worked on. Looking to elevate your next data-driven project or need assistance with complex analytics? Take a moment to learn more about me and consider leveraging my expertise.
+
+I'm passionate about translating data into actionable insights through code. With a keen eye for detail, I'm committed to helping businesses achieve their goals and crafting exceptional data-driven solutions. I hold a deep appreciation for the impact of effective design, recognizing its significance in today's applications, websites, and products.
+
+As an aspiring entrepreneur, I'm aligned with the principles of the lean startup methodology. My journey involves a continuous pursuit of innovation and learning, ensuring that every endeavor is driven by data-driven decision-making.
+
+Whether you're interested in delving deeper into my work, learning about my interests, or exploring potential collaborations, I encourage you to reach out through the provided contact information. Thank you for exploring my portfolio, and I invite you to explore the various sections of my website to learn more about my journey and accomplishments.
+   
                 </p>
               </div>
 
