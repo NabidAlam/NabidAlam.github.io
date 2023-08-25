@@ -308,7 +308,7 @@ Whether you're interested in delving deeper into my work, learning about my inte
                 </div>
                 <!-- TIMELINE PARAGRAPH -->
                 <p>
-                  I completed my primary school and high school from this
+                  I completed my primary school and high school at this
                   prestigious institution. I successfully passed my Secondary
                   School Certificate (SSC) examination on Science from here with
                   a GPA of 5.00 out of 5.00 .
@@ -494,26 +494,25 @@ Whether you're interested in delving deeper into my work, learning about my inte
             <div class="card timeline-content">
               <div class="card-content">
                 <!-- TIMELINE TITLE -->
-                <h6 class="timeline-title">Senior Software Engineer</h6>
+                <h6 class="timeline-title">Software Engineer</h6>
                 <!-- TIMELINE TITLE INFO -->
                 <div class="timeline-info">
                   <h6>
-                    <small>GPS Bangla</small>
+                    <small>Islam Garments Ltd.</small>
                   </h6>
                   <h6>
-                    <small>November/2018 to Present</small>
+                    <small>November/2018 to September/2020</small>
                   </h6>
                 </div>
                 <!-- TIMELINE PARAGRAPH -->
                 <p>
-                  Working on several modules of ERP solution which automates the
-                  business process of HR, Merchandiser, Procurement, Production
-                  departments. These include collecting requirements from
-                  clients, preparing required documents, building scalable
-                  application from requirements and training. Alongside
-                  development taking part in problem solving, knowledge sharing
-                  events to share on both technical and domain knowledge. Play
-                  as a team mate to deliver the best outcome from team
+                 I've successfully engineered ERP modules employing ASP.NET MVC, C#, and SQL, effectively streamlining HR, procurement, and production workflows. This initiative led to an impressive 30% enhancement in operational efficiency.
+
+By meticulously collecting customer requirements and meticulously documenting them, I ensured the foundation for developing scalable applications was strong and well-defined.
+
+In my full-stack development work, I harnessed the power of C#, ReactJS, and ASP.NET while making security a paramount consideration. This approach facilitated the creation of robust and secure applications that met the highest industry standards.
+
+Engaging in extensive customer requirement analysis, I further optimized the application development process. This meticulous approach resulted in a 25% reduction in development time, amplifying client satisfaction and overall project success.
                 </p>
               </div>
             </div>
