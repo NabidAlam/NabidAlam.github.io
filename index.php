@@ -257,14 +257,7 @@ Whether you're interested in delving deeper into my work, learning about my inte
                 </p>
               </div>
 
-              <!-- BUTTONS -->
-              <div id="about-btn" class="card-action">
-                <div class="about-btn">
-                  <!-- DOWNLOAD CV BUTTON -->
-
-                  <!-- CONTACT BUTTON -->
-                  <!-- <a href="#contact" class="btn waves-effect">Contact Me</a>  CONTACT BUTTON -->
-                </div>
+           
               </div>
             </div>
           </div>
