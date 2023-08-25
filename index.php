@@ -124,10 +124,9 @@
           <a href="#portfolios"
             ><i class="title-icon fa fa-archive"></i>Github</a
           >
-          <a href="#interest"><i class="title-icon fa fa-heart"></i>Interest</a>
-          <a href="#contact"
-            ><i class="title-icon fa fa-envelope"></i>Contact</a
-          >
+         <a href="#interest"><i class="title-icon fa fa-heart"></i>Interest</a>
+<a href="#contact-form"><i class="title-icon fa fa-envelope"></i>Contact</a>
+
         </div>
 
         <!-- MENU BUTTON -->
@@ -264,7 +263,7 @@ Whether you're interested in delving deeper into my work, learning about my inte
                   <!-- DOWNLOAD CV BUTTON -->
 
                   <!-- CONTACT BUTTON -->
-                  <a href="#contact" class="btn waves-effect">Contact Me</a>
+                  <!-- <a href="#contact" class="btn waves-effect">Contact Me</a>  CONTACT BUTTON -->
                 </div>
               </div>
             </div>
