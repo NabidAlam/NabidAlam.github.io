@@ -184,12 +184,7 @@
                           ></span>
                           <span class="content">nabid.aust37@skype.com</span>
                         </li>
-                        <li class="clearfix">
-                          <span class="title"
-                            ><i class="material-icons">phone</i></span
-                          >
-                          <span class="content">(+49) 17642785228</span>
-                        </li>
+                  
                         <li class="clearfix">
                           <span class="title"
                             ><i class="material-icons">place</i></span
