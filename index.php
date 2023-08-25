@@ -125,7 +125,7 @@
             ><i class="title-icon fa fa-archive"></i>Github</a
           >
          <a href="#interest"><i class="title-icon fa fa-heart"></i>Interest</a>
-<a href="#contact-form"><i class="title-icon fa fa-envelope"></i>Contact</a>
+
 
         </div>
 
