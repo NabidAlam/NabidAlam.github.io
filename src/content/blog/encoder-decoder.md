@@ -1,5 +1,5 @@
 ---
-title: "Understanding Encoder-Decoder Models (Seq2Seq) with an Easy Example"
+title: "A Beginner’s Guide to Encoder-Decoder (Seq2Seq) Models"
 author: "Md Shahabub Alam"
 pubDatetime: 2024-03-01T00:00:00Z
 slug: encoder-decoder-model-tutorial
@@ -70,15 +70,9 @@ Install the required packages:
 
 ```bash
 pip install torch torchtext numpy
+```
 
-
----
-
-**Make sure you follow these points carefully:**
-
-- All code snippets, like Python or bash commands, are clearly enclosed within triple backticks:  
-```markdown
-# python code here
+```python
 data = [
     ("hello", "hallo"),
     ("how are you", "wie geht es dir"),

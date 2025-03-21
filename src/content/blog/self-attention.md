@@ -70,7 +70,8 @@ The self-attention mechanism follows these key steps:
    $$
    Q = X W_Q, \quad K = X W_K, \quad V = X W_V
    $$
-   where \( W_Q, W_K, W_V \) are learned weight matrices.
+   <!-- where \( W_Q, W_K, W_V \) are learned weight matrices. -->
+   where $W_Q, W_K, W_V$ are learned weight matrices.
 
 2. **Compute Attention Scores**:  
    $$

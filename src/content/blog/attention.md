@@ -1,5 +1,5 @@
 ---
-title: "Understanding Attention Mechanism in Neural Networks with Simple Examples"
+title: "The Attention Mechanism in Neural Networks Explained with Examples"
 pubDatetime: 2025-03-10T00:00:00Z
 description: "Learn how attention mechanisms work in deep learning models, especially in NLP tasks. This beginner-friendly guide explains the concept with an intuitive example and PyTorch code."
 slug: "attention-mechanism-tutorial"

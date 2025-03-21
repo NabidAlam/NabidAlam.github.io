@@ -1,5 +1,5 @@
 ---
-title: "Understanding Batch Normalization in CNNs with Simple Examples"
+title: "Batch Normalization in CNNs: How It Works with Examples"
 pubDatetime: 2025-02-15T00:00:00Z
 description: "Learn how batch normalization improves deep learning models, particularly CNNs. This guide explains the concept, benefits, and provides a PyTorch implementation."
 slug: "batch-normalization-tutorial"
