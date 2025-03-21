@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
 
-> Check out my resume [here](https://nabidalam.github.io/resume.pdf).
+<!-- > Check out my resume [here](https://nabidalam.github.io/resume.pdf). -->
 
 ## 🌟 Professional Overview
 
@@ -39,7 +39,7 @@ Currently pursuing my Master's in Data Science at the University of Potsdam, my 
   - Key Courses: Advanced Machine Learning, Bayesian Inference, Statistical Data Analysis, Data Infrastructure, Mathematical Foundations of Data Science, Data Science & Business Analytics, Optimization Methods.
 
 - **B.Sc. in Computer Science & Engineering, Ahsanullah University of Science & Technology (Bangladesh)** *(2013 – 2017)*  
-  - Bachelor Thesis: Hybrid Machine Learning Model for Automated Image Captioning.
+  - Bachelor Thesis: A Cluster based Hybrid Framework for Network Intrusion Detection
 
 ## 📜 Certifications & Workshops
 
@@ -61,7 +61,7 @@ Currently pursuing my Master's in Data Science at the University of Potsdam, my 
 I have actively contributed to research, focusing on applied machine learning and statistical modeling:
 
 - [**Google Scholar Profile**](https://scholar.google.com/citations?user=VO1pXNwAAAAJ&hl=en)
-- Publications in IEEE Xplore, Arxiv, and peer-reviewed journals, covering topics like healthcare analytics, hotel booking prediction, face mask detection systems, automated Bangla image captioning, diabetes prediction, and cybersecurity.
+- Publications in IEEE Xplore, Arxiv and peer-reviewed journals, covering topics like healthcare analytics, hotel booking prediction, face mask detection systems, automated Bangla image captioning, diabetes prediction and cybersecurity.
 
 ## 🌍 Languages
 
