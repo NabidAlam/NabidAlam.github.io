@@ -1,7 +1,7 @@
 ---
 title: "Understanding Encoder-Decoder Models (Seq2Seq) with an Easy Example"
 author: "Md Shahabub Alam"
-pubDatetime: 2024-03-20T00:00:00Z
+pubDatetime: 2024-03-01T00:00:00Z
 slug: encoder-decoder-model-tutorial
 featured: false
 draft: false
