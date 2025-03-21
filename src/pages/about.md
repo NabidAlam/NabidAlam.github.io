@@ -29,7 +29,7 @@ Currently pursuing my Master's in Data Science at the University of Potsdam, my 
   - Automated reference extraction from clinical guidelines with Python NLP, reducing manual effort by 15%.
   - Created citation-validation tools to minimize inconsistencies in scientific research.
 
-- **Software Developer, Convince Computer Ltd. & Islam Garments Ltd.** *(Jul 2017 – Sep 2020)*  
+- **Software Engineer & Programmer, Convince Computer Ltd. & Islam Garments Ltd.** *(Jul 2017 – Sep 2020)*  
   - Developed ERP systems using ASP.NET and SQL for payroll and logistics, improving operational efficiency by 40%.
   - Optimized ETL pipelines, reducing latency by 30%, and designed dynamic reporting modules using Crystal Reports.
 
