@@ -34,6 +34,7 @@ Batch Normalization (BN) is a technique used in deep learning to **normalize act
 
 ---
 
+
 ## ❓ Why Do We Need Batch Normalization?
 
 Training deep neural networks can be challenging due to issues such as **internal covariate shift** and **exploding/vanishing gradients**. Batch Normalization helps by:
