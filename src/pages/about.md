@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About Me"
 ---
 
-<!-- > Check out my resume [here](https://nabidalam.github.io/resume.pdf). -->
+> Check out my resume [here](https://nabidalam.github.io/resume.pdf).
 
 ## 🌟 Professional Overview
 
