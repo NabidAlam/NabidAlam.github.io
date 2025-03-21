@@ -32,13 +32,11 @@ canonicalURL: ""
 - [References](#references)
 
 ---
-
 ## 🚀 Introduction
 
 The **Transformer model** has revolutionized NLP by replacing RNNs with a fully attention-based architecture. Introduced by Vaswani et al. in 2017, it powers models like **GPT, BERT, and T5**.
 
 Unlike RNNs, Transformers process entire sequences **in parallel**, making them faster and more efficient for tasks like **translation, summarization, and text generation**.
-
 ---
 
 ## ❓ Why Do We Need Transformers?
@@ -203,9 +201,7 @@ for epoch in range(10):
 By implementing a Transformer from scratch, you've built the foundation of models like **GPT, BERT, and T5**. The next step is fine-tuning on real-world tasks such as **machine translation, text summarization, and chatbot development**.
 
 ---
-
 ### 📖 **References**
-
 - Vaswani et al., 2017 - ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
 - Jay Alammar - ["The Illustrated Transformer"](https://jalammar.github.io/illustrated-transformer/)
 - PyTorch Documentation - ["Transformer Module"](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html)
