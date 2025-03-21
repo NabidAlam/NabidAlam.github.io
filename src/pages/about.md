@@ -7,7 +7,7 @@ title: "About Me"
 
 ## 🌟 Professional Overview
 
-I am **Md Shahabub Alam**, a passionate Data Scientist and AI Engineer currently based in Berlin, Germany. My expertise lies in creating impactful solutions leveraging Data Science, Machine Learning, Natural Language Processing, and Data Engineering.
+I am **Md Shahabub Alam**, a passionate Data Scientist currently based in Berlin, Germany. My expertise lies in creating impactful solutions leveraging Data Science, Machine Learning, Natural Language Processing, and Data Engineering.
 
 Currently pursuing my Master's in Data Science at the University of Potsdam, my academic background has equipped me with advanced skills in statistical analysis, Bayesian inference, deep learning, and applied data science.
 
