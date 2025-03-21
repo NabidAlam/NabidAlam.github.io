@@ -70,11 +70,14 @@ We'll implement **Additive Attention** as it’s easier to understand.
 pip install torch numpy
 ```
 
+
+
 ---
 
 ### 📌 Preparing Data
 
 We'll use a dummy dataset for clarity.
+
 
 ```python
 import torch
@@ -85,6 +88,7 @@ import torch.nn.functional as F
 encoder_outputs = torch.randn(5, 1, 16)  # 5 timesteps, batch size 1, hidden size 16
 decoder_hidden = torch.randn(1, 1, 16)   # current decoder hidden state
 ```
+
 
 ---
 
