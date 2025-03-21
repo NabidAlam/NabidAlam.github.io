@@ -1,5 +1,5 @@
 ---
-title: "Understanding Self-Attention in Neural Networks with an Easy Example"
+title: "Self-Attention in Neural Networks: A Simple Guide with Examples"
 pubDatetime: 2025-03-21T00:00:00Z
 description: "Learn how self-attention works in neural networks, particularly in Transformers. This beginner-friendly guide explains the concept with an intuitive example and PyTorch implementation."
 slug: "self-attention-tutorial"
@@ -29,9 +29,7 @@ canonicalURL: ""
 ---
 
 ## 🚀 Introduction
-
 Self-attention is a key mechanism in deep learning models, especially Transformers, which allows neural networks to weigh different parts of an input sequence when making predictions. Unlike traditional attention, self-attention works **within** a sequence, meaning each token attends to all others.
-
 ---
 
 ## ❓ Why Do We Need Self-Attention?
