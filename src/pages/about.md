@@ -17,11 +17,11 @@ Currently pursuing my Master's in Data Science at the University of Potsdam, my 
   - Developing machine learning models focused on optimizing human-machine interaction through tactile communication systems.
   - Building interactive dashboards and explainable AI solutions for informed decision-making.
 
-- **Student Research Assistant, Technische Universität Berlin (METIS Project)** *(Mar 2024 – Dec 2024)*  
+- **Student Assistant, Technische Universität Berlin (METIS Project)** *(Mar 2024 – Dec 2024)*  
   - Engineered machine learning models for evaluating IT infrastructures, improving decision efficiency by 20%.
   - Developed interactive dashboards and explanatory data-driven tools.
 
-- **Student Research Assistant, ESCP Business School** *(Apr 2024 – Mar 2025)*  
+- **Student Assistant, ESCP Business School** *(Apr 2024 – Mar 2025)*  
   - Independently built an NLP-powered chatbot using Botpress, significantly reducing thesis-related query processing time by 35%.
   - Implemented an adaptive learning mechanism for dynamic knowledge-base updates.
 
